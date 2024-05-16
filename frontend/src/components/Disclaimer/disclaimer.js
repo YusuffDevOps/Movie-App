@@ -1,0 +1,11 @@
+import React from "react";
+
+const Disclaimer = () =>{
+    return(
+        <div>
+            <h1>Error Please redirect to the home page</h1>
+        </div>
+    )
+}
+
+export default Disclaimer;
